@@ -1,0 +1,13 @@
+@import "../../index";
+
+.about {
+    margin: 10px 100px;
+    border: 2px solid #9a57ad;
+    padding: 80px;
+    font-size: 40px; 
+    text-align: center;
+
+    @media (max-width: 600px) {
+        font-size: 24px;
+      }
+}

@@ -1,0 +1,25 @@
+@import "../../index";
+
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 24px;
+
+    article {
+        margin: 20px 100px;
+        border: 1px solid rgb(206, 70, 190);
+        border-radius: 8px;
+        overflow: hidden;
+        text-align: center;
+        background-color: $primary-color;
+
+        section {
+            .blog-image {
+                width: 400px;
+                padding: 20px;
+            }
+        }
+    }
+}
