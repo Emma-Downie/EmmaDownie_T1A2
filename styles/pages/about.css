@@ -81,10 +81,10 @@ body {
 }
 
 .details {
-  margin: 10px 100px;
+  margin: 10px 40px;
   border: 2px solid #9a57ad;
-  padding: 80px;
-  font-size: 40px;
+  padding: 50px;
+  font-size: 24px;
   text-align: center;
   animation-name: colorful-text;
   animation-duration: 5s;
@@ -137,14 +137,14 @@ body {
 }
 
 .about {
-  margin: 10px 100px;
+  margin: 10px 50px;
   border: 2px solid #9a57ad;
-  padding: 80px;
-  font-size: 40px;
+  padding: 20px;
+  font-size: 24px;
   text-align: center;
 }
 @media (max-width: 600px) {
   .about {
-    font-size: 24px;
+    font-size: 20px;
   }
 }/*# sourceMappingURL=about.css.map */
