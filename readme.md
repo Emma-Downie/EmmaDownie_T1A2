@@ -7,6 +7,9 @@ This is a [link to my website](https://main--incandescent-mochi-4920c3.netlify.a
 ### Link to github
 This is a [link to my github](https://github.com/Emma-Downie/2023-OCT-portfolio)
 
+### Link to walkthrough
+This is a [link to my slide walkthrough](https://www.loom.com/share/f427efaffdfe420c8e4f67814885883e)
+
 
 ## Description of Portfolio
 * Purpose
